@@ -1,4 +1,8 @@
-I just trained the latent directions of most facial features from the Puzer's dataset and made a notebook with sliders to easily change parameters
+
+
+I just trained the latent directions of most facial features from the Puzer's dataset and made a notebook with sliders to easily change parameters.
+
+Some features are obviously biased, like facial hair (male bias) or makeup (female bias)-
 
 ![Sliders](./sliders.JPG)
 
