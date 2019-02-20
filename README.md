@@ -1,3 +1,9 @@
+I just trained the latent directions of most facial features from the Puzer's dataset and made a notebook with sliders to easily change parameters
+
+![Sliders](./sliders.jpg)
+
+### Original Readme:
+
 ## StyleGAN &mdash; Encoder for Official TensorFlow Implementation
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg?style=plastic)
 ![TensorFlow 1.10](https://img.shields.io/badge/tensorflow-1.10-green.svg?style=plastic)
@@ -34,7 +40,7 @@ Feel free to join the research. There is still much room for improvement:
 
 Stay tuned!
 
-### Original Readme:
+### Original Original Readme:
 This repository contains (no longer) official TensorFlow implementation of the following paper:
 
 
