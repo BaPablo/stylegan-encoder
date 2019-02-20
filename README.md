@@ -1,6 +1,6 @@
 I just trained the latent directions of most facial features from the Puzer's dataset and made a notebook with sliders to easily change parameters
 
-![Sliders](./sliders.jpg)
+![Sliders](./sliders.JPG)
 
 ### Original Readme:
 
